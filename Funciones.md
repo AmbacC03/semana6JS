@@ -1,3 +1,5 @@
 ```
-
+function flores() {
+    return "margarita";
+}
 ```
