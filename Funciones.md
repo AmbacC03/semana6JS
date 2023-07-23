@@ -1,5 +1,5 @@
 ```
 function flores() {
-    return "margarita";
+    return "margaritas";
 }
 ```
