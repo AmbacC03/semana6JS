@@ -1,5 +1,5 @@
 ```
 function color(verde) {
-    return "Cuadrado" + verde + !;
+    return "Cuadrado" + verde + "!";
 }
 ```
